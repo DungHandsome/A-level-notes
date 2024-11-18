@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "extended-colorschemes"
+  ]
+}

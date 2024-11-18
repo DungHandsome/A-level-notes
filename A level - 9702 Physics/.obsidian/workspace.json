@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "77fceb8ad8b87732",
+    "type": "split",
+    "children": [
+      {
+        "id": "87ad3b8e7d17ab8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2535ce7304be5367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electricity/Electricity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electricity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10d92ab772ac22fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b52bf03a86fac91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8820c2c04eeee14b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f14ce92d9f48274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "988243de6f455b46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62a645f774aa7f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f03509c3b74356f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d54c0fb3eb8f1e5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Electricity/Electricity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Electricity"
+            }
+          },
+          {
+            "id": "cba6325b521be31a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Electricity/Electricity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Electricity"
+            }
+          },
+          {
+            "id": "87008a714350986f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80e03604d3ebc48a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electricity/Electricity.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Electricity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "2535ce7304be5367",
+  "lastOpenFiles": [
+    "Electricity/Resources",
+    "Electricity/Resources/image048.png",
+    "Electricity/Electricity.md",
+    "Electricity",
+    "Welcome.md"
+  ]
+}

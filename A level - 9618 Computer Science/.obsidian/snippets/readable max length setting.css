@@ -1,0 +1,7 @@
+/* Changes the readable line length in Obsidian Notes. Tested in Obsidian v1.0.0
+See https://gist.github.com/vii33/f2c3a85b64023cefa9df6420730c7531/f4ea845b240e94c9fcd47d456340f78208dab38f
+*/
+
+body {
+	--file-line-width: 80%;
+}
